@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+![screencapture-localhost-3000-imdb-2023-07-29-14_10_48](https://github.com/Gripsanraiyani/IMDB-clone-using-ReactJs/assets/127504925/7a179506-f857-4aee-a696-cd1a28396203)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -62,6 +62,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+![screencapture-localhost-3000-imdb-2023-07-29-14_10_48](https://github.com/Gripsanraiyani/IMDB-clone-using-ReactJs/assets/127504925/7f39ee18-2003-4c8d-bc7a-a4ff93e997e4)
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
